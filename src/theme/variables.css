@@ -1,0 +1,13 @@
+:root {
+  --font-regular: SpaceGrotesk-Regular, sans-serif;
+  --font-medium: SpaceGrotesk-Medium, sans-serif;
+
+  --color-blue: #2B8CE5;
+  --color-regular-white: #FFF;
+  --color-faint-white: rgba(255, 255, 255, 0.3);
+  --color-input-border: rgba(255, 255, 255, 0.1);
+  --color-light-grey: #FAFAFA;
+  --color-faint-light-grey: rgba(250, 250, 250, 0.1);
+  --color-bg: #1E1E1E;
+  --color-dark-grey: #101313;
+}
