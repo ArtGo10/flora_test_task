@@ -8,12 +8,12 @@
   src: url(../src/theme/fonts/SpaceGrotesk-Medium.ttf);
 }
 
-html {
-  font-family: var(--font-regular);
-}
-
-body {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+html {
+  font-family: var(--font-regular);
 }
