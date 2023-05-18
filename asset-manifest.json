@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/flora_test_task/static/css/main.1ddaf4f6.css",
-    "main.js": "/flora_test_task/static/js/main.145bdbcc.js",
+    "main.js": "/flora_test_task/static/js/main.7b844eab.js",
     "static/media/SpaceGrotesk-Medium.ttf": "/flora_test_task/static/media/SpaceGrotesk-Medium.c71e15d5ceb1c9e6e05d.ttf",
     "static/media/SpaceGrotesk-Regular.ttf": "/flora_test_task/static/media/SpaceGrotesk-Regular.112c71329269f153245f.ttf",
     "static/media/slick.svg": "/flora_test_task/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -10,10 +10,10 @@
     "static/media/slick.woff": "/flora_test_task/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/flora_test_task/index.html",
     "main.1ddaf4f6.css.map": "/flora_test_task/static/css/main.1ddaf4f6.css.map",
-    "main.145bdbcc.js.map": "/flora_test_task/static/js/main.145bdbcc.js.map"
+    "main.7b844eab.js.map": "/flora_test_task/static/js/main.7b844eab.js.map"
   },
   "entrypoints": [
     "static/css/main.1ddaf4f6.css",
-    "static/js/main.145bdbcc.js"
+    "static/js/main.7b844eab.js"
   ]
 }
